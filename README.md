@@ -11,9 +11,7 @@ stylesheet (`assets/site.css`); no build step.
 | `/daily/terms/` | `daily/terms/index.html` | Daily Plus paywall, app Settings |
 | `/daily/delete-account/` | `daily/delete-account/index.html` | Play Data safety "delete account" URL |
 
-The Daily pages describe how the app handles data. Keep them in step with the app's design docs
-(`daily/docs/account-deletion.md`, `daily-plus.md`, `sync-architecture.md`); when a policy page
-changes in substance, update its "Effective" date.
+The privacy, terms and delete-account pages are placeholders until the policies are ready.
 
 ## Preview locally
 
