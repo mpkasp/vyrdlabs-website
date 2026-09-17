@@ -32,6 +32,6 @@ DNS for `vyrdlabs.com` (leave the Google Workspace `MX` and `TXT` records alone)
 |---|---|---|
 | `@` | A | `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` |
 | `@` | AAAA | `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153` |
-| `www` | CNAME | `<github-user>.github.io` |
+| `www` | CNAME | `mpkasp.github.io` |
 
 Verify the domain under the GitHub account's Settings → Pages to stop other accounts claiming it.
