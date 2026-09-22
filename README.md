@@ -11,7 +11,7 @@ stylesheet (`assets/site.css`); no build step.
 | `/daily/terms/` | `daily/terms/index.html` | Daily Plus paywall, app Settings |
 | `/daily/delete-account/` | `daily/delete-account/index.html` | Play Data safety "delete account" URL |
 
-The privacy, terms and delete-account pages are placeholders until the policies are ready.
+The terms and delete-account pages are placeholders until the policies are ready.
 
 ## Preview locally
 
