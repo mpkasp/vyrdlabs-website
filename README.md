@@ -6,8 +6,8 @@ stylesheet (`assets/site.css`); no build step.
 | URL | File | Used by |
 |---|---|---|
 | `/` | `index.html` | |
-| `/daily/` | `daily/index.html` | Play listing website and support; screenshots and badge live in `daily/images/` |
-| `/daily/privacy/` | `daily/privacy/index.html` | Play listing, Data safety, Daily Plus paywall, app Settings |
+| `/daily/` | `daily/index.html` | Play listing website, App Store support URL; screenshots and badge live in `daily/images/` |
+| `/daily/privacy/` | `daily/privacy/index.html` | Play listing, Data safety, App Store privacy policy URL, Daily Plus paywall, app Settings |
 | `/daily/terms/` | `daily/terms/index.html` | Daily Plus paywall, app Settings |
 | `/daily/delete-account/` | `daily/delete-account/index.html` | Play Data safety "delete account" URL |
 
